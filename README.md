@@ -5,8 +5,8 @@
 
 
 ## 🚀 About Me
-- 🌍 **From:** Sogakope, Ghana.
-- 🎯 **Interests:** Building impactful software, contributing to open-source projects, and bridging the gap between technology and society.
+- 🌍 From: Accra, Ghana.
+- 🎯 Interests: Building impactful software, contributing to open-source projects, and bridging the gap between technology and society.
 - 🔭 Focus Areas:
   - Web Development (Frontend & Backend)
   - Data Analysis & Visualization
@@ -31,13 +31,13 @@
 
 ## 🌟 Projects
 Here are some of my notable projects:
-1. **[Credit Union Management System](https://github.com/senyodey/Credit-Union-Management-System)**  
+1. [Credit Union Management System](https://github.com/senyodey/Credit-Union-Management-System)  
    A comprehensive system for managing accounts, transactions, loans, and user data for credit unions.
 
 
 ---
 
-## 🧩 **What I’m Currently Learning**
+## 🧩 What I’m Currently Learning
 - Building web software
 - Advanced database management systems.
 - Mobile app development** with Flask.
