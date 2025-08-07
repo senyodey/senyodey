@@ -46,8 +46,8 @@ Here are some of my notable projects:
 
 ## 🌐 Connect With Me
 - Email: cleericdey15@gmail.com
-- LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/cleeric-dey-02303822a)
-- GitHub: [github.com/senyodey](https://github.com/senyodey)
+- LinkedIn: www.linkedin.com/in/cleeric-dey-02303822a
+- GitHub: https://github.com/senyodey
 
 ---
 
